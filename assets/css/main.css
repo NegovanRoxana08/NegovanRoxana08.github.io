@@ -35,6 +35,7 @@
 body {
   font-family: var(--font-default);
   color: #480083ba;
+  background: #F9DCF3 url(/img/backgroung.jpg) center center/cover no-repeat;
 }
 
 a {

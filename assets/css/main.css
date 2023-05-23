@@ -38,7 +38,7 @@ body {
 }
 
 .hero image {
-  background: #F9DCF3 <img sc="assets/img/background.jpg" center center/cover no-repeat;>
+  background: #F9DCF3 url(background.jpg) center center/cover no-repeat;>
 height: 50%;
   background-position: center;
   background-repeat: no-repeat;

@@ -38,10 +38,9 @@ body {
 }
 
 .hero image {
-  background: #F9DCF3 url(../img/background.jpg) center center/cover no-repeat;>
+  background: #F9DCF3 url(../img/background.jpg) center center;>
 height: 50%;
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
   position: relative;
 }

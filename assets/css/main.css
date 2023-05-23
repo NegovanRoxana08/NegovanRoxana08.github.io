@@ -1859,7 +1859,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(250, 183, 240, 0.8);
+  background: rgba(230, 119, 213, 0.8);
 }
 
 @keyframes animate-loading {
